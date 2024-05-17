@@ -53,7 +53,7 @@
 //
 // Z Probe must be this pin
 //
-#define Z_MIN_PROBE_PIN                     PC14  // PROBE
+#define Z_MIN_PROBE_PIN                     PA1  // PROBE Default PC14
 
 //
 // Probe enable
